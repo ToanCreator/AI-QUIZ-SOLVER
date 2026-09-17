@@ -34,10 +34,10 @@ First, install the **Tampermonkey** browser extension:
 
 ```javascript
 // ==UserScript==
-// @name         AI Quiz Solver (Loader)
+// @name         AI Quiz Solver
 // @namespace    http://tampermonkey.net/
 // @version      9.0
-// @description  Automated AI Quiz Solver Loader
+// @description  Automated AI Quiz Solver by ToànCreator
 // @match        *://*/*
 // @grant        GM_setValue
 // @grant        GM_getValue
@@ -46,7 +46,7 @@ First, install the **Tampermonkey** browser extension:
 // ==/UserScript==
 ```
 
-4. Press `Ctrl + S` (or `Cmd + S` on Mac) to save the script.
+4. Click File > Save or Press `Ctrl + S` (or `Cmd + S` on Mac) to save the script.
 
 ---
 
