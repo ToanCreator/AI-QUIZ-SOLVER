@@ -93,7 +93,3 @@ View all question-and-answer pairs extracted during your quiz session directly w
 <p align="center">
   <img src="https://github.com/user-attachments/assets/64739d6c-ce44-483c-a047-1c88e46f05c3" alt="Quiz Solver Output Table" width="340" />
 </p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/60ec7d88-5c06-48da-b53a-39eb589e776f" alt="Full Interface Preview" width="340" />
-</p>
