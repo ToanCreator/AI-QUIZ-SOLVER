@@ -36,13 +36,13 @@ First, install the **Tampermonkey** browser extension:
 // ==UserScript==
 // @name         AI Quiz Solver
 // @namespace    http://tampermonkey.net/
-// @version      9.0
+// @version      9.7
 // @description  Automated AI Quiz Solver by ToànCreator
 // @match        *://*/*
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @run-at       document-start
-// @require      https://raw.githubusercontent.com/ToanCreator/AI-QUIZ-SOLVER/refs/heads/main/AI-QUIZ-SOLVER.user.js
+// @require      https://raw.githubusercontent.com/ToanCreator/AI-QUIZ-SOLVER/main/AI-QUIZ-SOLVER.user.js?v=9.7
 // ==/UserScript==
 ```
 
